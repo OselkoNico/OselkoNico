@@ -1,9 +1,6 @@
 ## Hola, soy Osel Nicolás 👋
 
-Desarrollador web full-stack formado en JavaScript y TypeScript, buscando mi
-primera oportunidad en el sector. Actualmente trabajo como fontanero y estoy en
-plena transición hacia la programación: llevo meses construyendo proyectos por mi
-cuenta, con la misma constancia con la que se aprende un oficio.
+Desarrollador web full-stack formado en JavaScript y TypeScript, buscando mi primera oportunidad en el sector. Actualmente trabajo como fontanero y estoy realizando una transición profesional hacia el desarrollo web. He completado una formación de 6 meses basada en la creación de proyectos prácticos y, actualmente, continúo formándome de manera autodidacta mediante el desarrollo de proyectos propios, con el objetivo de seguir mejorando mis conocimientos, adquirir experiencia práctica y avanzar constantemente como desarrollador.
 
 Del oficio me traigo lo que creo que importa aquí: diagnosticar antes de tocar,
 trabajar con método y no dar algo por terminado hasta que funciona de verdad.

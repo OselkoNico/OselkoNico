@@ -159,5 +159,5 @@ los de un alumno:
 Estoy buscando activamente mi primer puesto como desarrollador, en remoto o
 presencial, y disponible para incorporación inmediata.
 
-- **LinkedIn:** [osel-f-nicolás-benitez](https://www.linkedin.com/in/osel-f-nicol%C3%A1s-benitez/)
+- **LinkedIn:** [osel-f-nicolás-benitez](https://www.linkedin.com/in/osel-f-nicolas-benitez/)
 - **Correo:** [oselfrancisco.nb@gmail.com](mailto:oselfrancisco.nb@gmail.com)
